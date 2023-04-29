@@ -13,6 +13,3 @@ Utilisation :
 
       // Autoplay
       project.greenFlag();
-
-HTML :
-      <div id="project"></div>
